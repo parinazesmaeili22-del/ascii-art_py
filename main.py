@@ -7,7 +7,7 @@ except ImportError:
 
 # List of characters gonna replaced with pixel: darker to lighter
 # '@':0 BLACK ==> '*':125 GRAY ==> '.':255 WHITE
-ASCII_CHARS = ["@", "#", "S", "X", "?", "*", "+", ";", ":", ",", "."]
+ASCII_CHARS = ["@", "#", "Q", "W", "E", "R", "A", "S", "D", "Z", "X", "C", "D", "!", "^", "&", "*", "(", ")", ".", '"', ";", ":", "?", ",", "<", ">", "/", "\\", "-", "_", "}", "{", "p", "k", "i", "l", "o", "j", "h", "V", "`", "~", "÷", "×"]
 
 # import cv2
 # stream = cv2.VideoCapture('rtsp://admin:12345@192.168.1.1/1')  
